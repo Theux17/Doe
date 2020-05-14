@@ -34,23 +34,4 @@ $ git clone https://github.com/Theux17/Doe.git
 # Entrar no diretório 
 $ cd 
 
-
-# Instalar as segunites dependências
-
-$ npm init -y
-
-$ npm install express
-
-$ npm install -D nodemon
-
-$ npm install nunjucks
-
-# Instale o banco de dados
-
-$ npm install pg
-
-# Após instalar as dependências e o banco de dados, inicie a aplicação com o seguinte comando
-
-$ npm start
-
 ```
